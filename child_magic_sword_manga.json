@@ -10,40 +10,16 @@
       "volume": "1",
       "groups": {
         "White Crow": "/proxy/api/imgur/chapter/SO1nKb7/"
-       },
-      "last_updated": "1621424684"
       },
-     "2": {
+      "last_updated": "1621424684"
+    },
+    "2": {
       "title": "Chapter 1.2",
       "volume": "1",
       "groups": {
         "White Crow": "/proxy/api/imgur/chapter/C1QKJBE/"
       },
       "last_updated": "1621424684"
-      },
-     "3": {
-      "title": "Chapter 2.1",
-      "volume": "1",
-      "groups": {
-        "White Crow": "/proxy/api/imgur/chapter/oJVYWpR/"
-       },
-       "last_updated": "1621424684"
-      },
-      "4": {
-      "title": "Chapter 2.2",
-      "volume": "1",
-      "groups": {
-        "White Crow": "/proxy/api/imgur/chapter/EH0VIr1/"
-       },
-       "last_updated": "1621424684"
-      },
-     "5": {
-      "title": "Chapter 3.1",
-      "volume": "1",
-      "groups": {
-        "White Crow": "/proxy/api/imgur/chapter/PcnVh4P/"
-       },
-       "last_updated": "1621424684"
-     } 
     }
   }
+}
