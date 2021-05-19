@@ -1,15 +1,15 @@
 {
-  "title": "<manga title>",
-  "description": "<manga description>",
-  "artist": "<manga artist>",
-  "author": "<manga author>",
-  "cover": "<mangacoverurl.jpg>",
+  "title": "A Former Child Soldier Who Uses a Magic Sword Wants to Live with An Older Sister of a Former Enemy Executive",
+  "description": "Seto is an ex-boy soldier who was expelled from the party of heroes on his journey because of his ruthless and incomparable fighting style. The former leader of the Demon King’s army, Satis, was kicked out after a series of failures. The two “former” enemies decide to travel together to find a second life. Sometimes they go to hot springs, sometimes they sleep in the same bed, sometimes they are attacked by demons. But what do they find at the end of their journey when they lose their place in the world? The road story of the (former) brave boy soldier and (former) demon lord’s army leader’s “rebirth”!",
+  "artist": "Ron Makita",
+  "author": "Mondo Hasekura",
+  "cover": "https://i.imgur.com/1XiUo2V.png",
   "chapters": {
-    "<chapter number>": {
-      "title": "<chapter name>",
-      "volume": "<volume number>",
+    "1": {
+      "title": "Chapter 1.1",
+      "volume": "1",
       "groups": {
-        "<group name>": "/proxy/api/imgur/chapter/<imgur id>/"
+        "White Crow": "/proxy/api/imgur/chapter/SO1nKb7/"
       },
       "last_updated": "1616368746"
     }
