@@ -11,7 +11,31 @@
       "groups": {
         "White Crow": "/proxy/api/imgur/chapter/SO1nKb7/"
       },
-      "last_updated": "1616368746"
+     "2": {
+      "title": "Chapter 1.2",
+      "volume": "1",
+      "groups": {
+        "White Crow": "/proxy/api/imgur/chapter/C1QKJBE/"
+      },
+     "3": {
+      "title": "Chapter 2.1",
+      "volume": "1",
+      "groups": {
+        "White Crow": "/proxy/api/imgur/chapter/oJVYWpR/"
+      },
+      "4": {
+      "title": "Chapter 2.2",
+      "volume": "1",
+      "groups": {
+        "White Crow": "/proxy/api/imgur/chapter/EH0VIr1/"
+      },
+     "5": {
+      "title": "Chapter 3.1",
+      "volume": "1",
+      "groups": {
+        "White Crow": "/proxy/api/imgur/chapter/PcnVh4P/"
+      },
+      "last_updated": "1621424684"
     }
   }
 }
