@@ -125,7 +125,7 @@
       },
       "last_updated": "1623198902"
     },
-          "16": {
+      "16": {
       "title": "Chapter 16",
       "volume": "1",
       "groups": {
@@ -148,6 +148,14 @@
         "Boredom Society": "/proxy/api/imgur/chapter/6nwqixV/"
       },
       "last_updated": "1624642132"
+    },
+      "19": {
+      "title": "Chapter 19",
+      "volume": "1",
+      "groups": {
+        "Boredom Society": "/proxy/api/imgur/chapter/qHXMgC5/"
+      },
+      "last_updated": "1624904480"
     }
   }
 }
